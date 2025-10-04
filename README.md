@@ -44,7 +44,7 @@ It helps beginners understand the basics of **React components, props, and rende
    ```bash
    npm install
    npm run dev
- 3.Open browser at [http://localhost:5173](http://localhost:5173/)
+ 3.Open browser at link:(http://localhost:5174/)
  
 ## **Key Takeaway**
 
